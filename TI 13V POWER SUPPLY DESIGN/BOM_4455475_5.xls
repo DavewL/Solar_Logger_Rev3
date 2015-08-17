@@ -1,0 +1,11 @@
+Part	Manufacturer	Part Number	Quantity	Price	Attribute 1 Name	Attribute 1 Value	Attribute 2 Name	Attribute 2 Value	Attribute 3 Name	Attribute 3 Value	Footprint
+"Cf"	"Yageo America"	"CC0805KRX7R9BB471"	"1"	"0.01"	""	""	""	""	""	""	"0805"
+"Cin"	"Kemet"	"C0805C106K8PACTU"	"1"	"0.04"	""	""	""	""	""	""	"0805"
+"Cout"	"Panasonic"	"16TQC10M"	"1"	"0.57"	""	""	""	""	""	""	"3528-21"
+"D1"	"Diodes Inc."	"B220-13-F"	"1"	"0.08"	"VFatIo"	"0.5V"	"Io"	"2A"	"VRRM"	"20V"	"SMB"
+"L1"	"Bourns"	"SRN6045-100M"	"1"	"0.16"	"L"	"10uH"	"DCR"	"0.059Ohm"	"IDC"	"2.5A"	"SRN6045"
+"Renable"	"Panasonic"	"ERJ-6ENF1002V"	"1"	"0.01"	"Resistance"	"10kOhm"	"Tolerance"	"1%"	"Power"	"0.125W"	"0805"
+"Rfbb"	"Panasonic"	"ERJ-6ENF1002V"	"1"	"0.01"	"Resistance"	"10kOhm"	"Tolerance"	"1%"	"Power"	"0.125W"	"0805"
+"Rfbt"	"Panasonic"	"ERJ-6ENF9312V"	"1"	"0.01"	"Resistance"	"93.1kOhm"	"Tolerance"	"1%"	"Power"	"0.125W"	"0805"
+"U1"	"Texas Instruments"	"LMR62421XSD/NOPB"	"1"	"0.75"	""	""	""	""	""	""	"SDE06A"
+"C4"	"MuRata"	"GRM21BR61C475KA88L"	"1"	"0.03"	""	""	""	""	""	""	"0805"

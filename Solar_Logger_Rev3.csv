@@ -1,0 +1,66 @@
+Reference, Value, Footprint, Datasheet, PartNumber, Voltage
+IC1,ATMEGA328P-A,Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm,http://www.mouser.com/ds/2/36/atmel-8271-8-bit-avr-microcontroller-atmega48a-48p-365589.pdf
+RES1,8MHz,Crystals_Oscillators_SMD:Resonator_7.2x3mm,http://www.mouser.com/ds/2/40/pbr_e-272425.pdf
+CON1,10067847-001RLF,DWL_KiCad_Lib:SD_Card_Receptacle_DL,http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+P1,CONN_SERIAL,Pin_Headers:Pin_Header_Straight_1x06,
+BATT1,CR2025,DWL_KiCad_Lib:C2025,https://www.linxtechnologies.com/resources/diagrams/bat-hld-001.pdf,BAT-HLD-001,
+U4,PC817XNNIP0F,w_smd_dil:mdip_4,http://www.sharpsma.com/webfm_send/1835
+U2,LMR62421XMF,Housings_SOT-23_SOT-143_TSOT-6:SOT-23-5,http://www.mouser.com/ds/2/405/lmr62421-453259.pdf
+L1,SRN6045-100M,w_smd_inductors:inductor_smd_5.8x2.8mm,http://www.mouser.com/ds/2/54/SRN6045-70649.pdf
+D1,B220-13-F,Diodes_SMD:SMB_Handsoldering,http://www.mouser.com/ds/2/115/ds13004-70120.pdf
+C1,470 pf,Capacitors_SMD:C_0805_HandSoldering,http://www.mouser.com/ds/2/447/Yageo_486313-494411.pdf,,50V
+R1,93.1k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF9312V,
+R5,10k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF1002V,
+R3,10k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF1002V,
+C2,10 uf,Resistors_SMD:R_1206_HandSoldering,http://product.tdk.com/en/catalog/datasheets/mlcc_commercial_general_en.pdf,C3216X5R1C106K160AA,16V
+U1,SI2333DS-T1-E3,Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering,http://www.vishay.com/docs/72023/72023.pdf
+R4,10k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF1002V,
+R6,1M,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/panasonic_erj_Gseries-586692.pdf,ERJ-6GEYJ105V,
+J4,BATT_IN,w_conn_jst-ph:s2b-ph-kl,http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+J2,SENSOR_1,w_conn_jst-ph:b3b-ph-kl,http://www.jst-mfg.com/product/pdf/eng/ePH.pdf,B3B-PH-K-S(LF)(SN),
+R20,100k,Resistors_SMD:R_0805_HandSoldering,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf,RC0805FR-07100KL,
+R21,2k,Resistors_SMD:R_0805_HandSoldering,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF2001V+7+WW,ERJ-6ENF2001V,
+R15,100k,Resistors_SMD:R_0805_HandSoldering,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf,RC0805FR-07100KL,
+R14,270k,Resistors_SMD:R_0805_HandSoldering,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF2703V+7+WW,ERJ-6ENF2703V,
+J3,SOLAR_IN,w_conn_jst-ph:s2b-ph-kl,http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+P2,USB_OTG,DWL_KiCad_Lib:USB_MICRO_VERT,http://katalog.we-online.de/em/datasheet/614105150721.pdf,614105150721,
+D3,RED,Resistors_SMD:R_0805_HandSoldering,http://vcclite.com/_pdf/CMD17-21%20Series%20SMT%20LEDs%200805%20Package%20Size.pdf,CMD17-21VRC/TR8,
+D4,GRN,Resistors_SMD:R_0805_HandSoldering,http://vcclite.com/_pdf/CMD17-21%20Series%20SMT%20LEDs%200805%20Package%20Size.pdf,CMD17-21VGC/TR8,
+D5,YEL,Resistors_SMD:R_0805_HandSoldering,http://vcclite.com/_pdf/CMD17-21%20Series%20SMT%20LEDs%200805%20Package%20Size.pdf,CMD17-21VYD/TR8,
+RP1,1K,Resistors_SMD:R_Array_Convex_4x1206,http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Resistors%20Thermistors%20PDFs/EXB_Series.pdf,EXB-38V102JV,
+U3,EMC1402,Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm,http://ww1.microchip.com/downloads/en/DeviceDoc/1402.pdf
+C14,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+C11,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+C5,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+C6,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+C7,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+C16,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+U8,BH1721FVC,DWL_KiCad_Lib:WSOF5,http://rohmfs.rohm.com/en/products/databook/datasheet/ic/sensor/light/bh1721fvc-e.pdf
+R13,270k,Resistors_SMD:R_0805_HandSoldering,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF2703V+7+WW,ERJ-6ENF2703V,
+C3,10 uf,Resistors_SMD:R_1206_HandSoldering,http://product.tdk.com/en/catalog/datasheets/mlcc_commercial_general_en.pdf,C3216X5R1C106K160AA,16V
+C12,10 uf,Resistors_SMD:R_1206_HandSoldering,http://product.tdk.com/en/catalog/datasheets/mlcc_commercial_general_en.pdf,C3216X5R1C106K160AA,16V
+C10,10 uf,Resistors_SMD:R_1206_HandSoldering,http://product.tdk.com/en/catalog/datasheets/mlcc_commercial_general_en.pdf,C3216X5R1C106K160AA,16V
+C15,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+R10,2k,Resistors_SMD:R_0805_HandSoldering,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF2001V+7+WW,ERJ-6ENF2001V,
+D2,RED,Resistors_SMD:R_0805_HandSoldering,http://vcclite.com/_pdf/CMD17-21%20Series%20SMT%20LEDs%200805%20Package%20Size.pdf,CMD17-21VRC/TR8,
+R2,2k,Resistors_SMD:R_0805_HandSoldering,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF2001V+7+WW,ERJ-6ENF2001V,
+C9,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+R12,10k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF1002V,
+R11,10k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF1002V,
+R7,10k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF1002V,
+R8,10k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF1002V,
+R17,0,Resistors_SMD:R_0805_HandSoldering,,0,
+C8,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+C4,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+U7,DS3231SN#,Housings_SOIC:SOIC-16_7.5x10.3mm_Pitch1.27mm,http://datasheets.maximintegrated.com/en/ds/DS3231-DS3231S.pdf
+R16,1.54k,Resistors_SMD:R_0805_HandSoldering,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF1541V+7+WW,ERJ-6ENF1541V,
+J1,AVR_ISP,Pin_Headers:Pin_Header_Straight_2x03,
+R19,69.8k,Resistors_SMD:R_0805_HandSoldering,http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF6982V+7+WW,ERJ-6ENF6982V,
+TH1,10K NTC,w_smd_diode:do214ac,http://www.ussensor.com/sites/default/files/downloads/MM103J1F%20(R-T%20Table).xls,MM103J1F,
+R9,10k,Resistors_SMD:R_0805_HandSoldering,http://www.mouser.com/ds/2/315/AOA0000CE2-37512.pdf,ERJ-6ENF1002V,
+R18,10M,Resistors_SMD:R_0805_HandSoldering,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf,RC0805FR-0710ML,
+R22,10M,Resistors_SMD:R_0805_HandSoldering,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_3.pdf,RC0805FR-0710ML,
+C13,.1 uf,Capacitors_SMD:C_0805_HandSoldering,http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM216F51E104ZA01-01.pdf,GRM216F51E104ZA01D,25V
+U6,MCP73871,w_smd_qfn:qfn-20,http://www.mouser.com/ds/2/268/22090a-52174.pdf
+SW1,SW_PUSH,DWL_KiCad_Lib:PUSHBUTTON_SMD_2PIN,http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English
+U5,TPS7333QDR,Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm,http://www.ti.com/lit/ds/symlink/tps7301.pdf
